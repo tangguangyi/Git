@@ -13,7 +13,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        print("开源中国")
     }
+    
+    var str = 1
+   
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
